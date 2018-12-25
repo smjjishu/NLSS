@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com-smj-api.iml" filepath="$PROJECT_DIR$/com-smj-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../com-smj-comm/com-smj-comm.iml" filepath="$PROJECT_DIR$/../com-smj-comm/com-smj-comm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../com-smj-job/com-smj-job.iml" filepath="$PROJECT_DIR$/../com-smj-job/com-smj-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../com-smj-mq/com-smj-mq.iml" filepath="$PROJECT_DIR$/../com-smj-mq/com-smj-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../com-smj-one/com-smj-one.iml" filepath="$PROJECT_DIR$/../com-smj-one/com-smj-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../com-smj-parent/com-smj-parent.iml" filepath="$PROJECT_DIR$/../com-smj-parent/com-smj-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../com-smj-two/com-smj-two.iml" filepath="$PROJECT_DIR$/../com-smj-two/com-smj-two.iml" />
+    </modules>
+  </component>
+</project>

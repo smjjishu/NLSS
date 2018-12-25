@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="com-smj-api" />
+        <module name="com-smj-comm" />
+        <module name="com-smj-job" />
+        <module name="com-smj-mq" />
+        <module name="com-smj-one" />
+        <module name="com-smj-two" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com-smj-api" target="1.8" />
+      <module name="com-smj-comm" target="1.8" />
+      <module name="com-smj-job" target="1.8" />
+      <module name="com-smj-mq" target="1.8" />
+      <module name="com-smj-one" target="1.8" />
+      <module name="com-smj-parent" target="1.8" />
+      <module name="com-smj-two" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
